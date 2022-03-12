@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sushantsharma0221/CovidCasesTrack/static/css/main.e8eaad39.css",
+    "main.js": "/sushantsharma0221/CovidCasesTrack/static/js/main.e7e37a7e.js",
+    "static/media/image1.jpg": "/sushantsharma0221/CovidCasesTrack/static/media/image1.d3e6afa4de884f36e31f.jpg",
+    "index.html": "/sushantsharma0221/CovidCasesTrack/index.html",
+    "main.e8eaad39.css.map": "/sushantsharma0221/CovidCasesTrack/static/css/main.e8eaad39.css.map",
+    "main.e7e37a7e.js.map": "/sushantsharma0221/CovidCasesTrack/static/js/main.e7e37a7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8eaad39.css",
+    "static/js/main.e7e37a7e.js"
+  ]
+}
